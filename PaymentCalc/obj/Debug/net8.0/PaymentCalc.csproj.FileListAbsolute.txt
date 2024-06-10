@@ -1,0 +1,14 @@
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\bin\Debug\net8.0\PaymentCalc.exe
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\bin\Debug\net8.0\PaymentCalc.deps.json
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\bin\Debug\net8.0\PaymentCalc.runtimeconfig.json
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\bin\Debug\net8.0\PaymentCalc.dll
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\bin\Debug\net8.0\PaymentCalc.pdb
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\obj\Debug\net8.0\PaymentCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\obj\Debug\net8.0\PaymentCalc.AssemblyInfoInputs.cache
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\obj\Debug\net8.0\PaymentCalc.AssemblyInfo.cs
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\obj\Debug\net8.0\PaymentCalc.csproj.CoreCompileInputs.cache
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\obj\Debug\net8.0\PaymentCalc.dll
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\obj\Debug\net8.0\refint\PaymentCalc.dll
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\obj\Debug\net8.0\PaymentCalc.pdb
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\obj\Debug\net8.0\PaymentCalc.genruntimeconfig.cache
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\obj\Debug\net8.0\ref\PaymentCalc.dll
