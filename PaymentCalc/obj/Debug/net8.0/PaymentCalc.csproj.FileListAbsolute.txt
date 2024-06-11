@@ -12,3 +12,4 @@ C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\obj\Debug\net8.0\refint\Paym
 C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\obj\Debug\net8.0\PaymentCalc.pdb
 C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\obj\Debug\net8.0\PaymentCalc.genruntimeconfig.cache
 C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\obj\Debug\net8.0\ref\PaymentCalc.dll
+C:\Users\aronc\source\repos\PaymentCalc\PaymentCalc\obj\Debug\net8.0\PaymentCalc.sourcelink.json

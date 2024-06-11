@@ -19,5 +19,10 @@ namespace PaymentCalc.Models
         {
             return (base.Payment() + AdditionalCharge) * 1.16;
         }
+
+        public override string ToString()
+        {
+            return $"{base.ToString()}, {AdditionalCharge}";
+        }
     }
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace PaymentCalc.Models
 {
@@ -44,6 +45,8 @@ namespace PaymentCalc.Models
             }
 
             EmployeeList.DisplayEmployeeList();
+            WriteList writeList = new WriteList();
+            writeList.CreateList(Employee.Employees);
         }
     }
 }

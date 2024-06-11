@@ -27,5 +27,10 @@ namespace PaymentCalc.Models
         {
             return Hours * ValuePerHour;
         }
+
+        public override string ToString()
+        {
+            return $"{Id}, {Name}, {Hours}, {ValuePerHour}, {IsOutsourced}, {Payment()}";
+        }
     }
 }
