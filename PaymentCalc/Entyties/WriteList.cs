@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using PaymentCalc.Models;
 
-namespace PaymentCalc.Models
+namespace PaymentCalc.Entyties
 {
     public class WriteList
     {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace PaymentCalc.Models
+namespace PaymentCalc.Entyties
 {
     public class ListDirectory
     {

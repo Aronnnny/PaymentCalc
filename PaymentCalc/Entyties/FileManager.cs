@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PaymentCalc.Models
+namespace PaymentCalc.Entyties
 {
     public class FileManager
     {

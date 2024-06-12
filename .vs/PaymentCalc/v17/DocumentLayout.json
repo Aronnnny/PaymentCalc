@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\models\\writelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\models\\writelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\models\\registeremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\models\\registeremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\entyties\\writelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\entyties\\writelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\models\\listdirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\models\\listdirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\models\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\models\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\models\\reademployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\models\\reademployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\models\\employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\models\\employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\entyties\\employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\entyties\\employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\models\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\models\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\entyties\\reademployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\entyties\\reademployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\entyties\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\entyties\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\entyties\\listdirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\entyties\\listdirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\entyties\\registeremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\entyties\\registeremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|c:\\users\\aronc\\source\\repos\\paymentcalc\\paymentcalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A06EE5-AD22-41C0-826D-58851F6A96BD}|PaymentCalc\\PaymentCalc.csproj|solutionrelative:paymentcalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,16 +46,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ListDirectory.cs",
-              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\ListDirectory.cs",
-              "RelativeDocumentMoniker": "PaymentCalc\\Models\\ListDirectory.cs",
-              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\ListDirectory.cs",
-              "RelativeToolTip": "PaymentCalc\\Models\\ListDirectory.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Entyties\\ListDirectory.cs",
+              "RelativeDocumentMoniker": "PaymentCalc\\Entyties\\ListDirectory.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Entyties\\ListDirectory.cs",
+              "RelativeToolTip": "PaymentCalc\\Entyties\\ListDirectory.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T01:09:39.544Z",
@@ -63,51 +63,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "EmployeeList.cs",
-              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\EmployeeList.cs",
-              "RelativeDocumentMoniker": "PaymentCalc\\Models\\EmployeeList.cs",
-              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\EmployeeList.cs",
-              "RelativeToolTip": "PaymentCalc\\Models\\EmployeeList.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvw8AAAANAAAA",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Entyties\\EmployeeList.cs",
+              "RelativeDocumentMoniker": "PaymentCalc\\Entyties\\EmployeeList.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Entyties\\EmployeeList.cs",
+              "RelativeToolTip": "PaymentCalc\\Entyties\\EmployeeList.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T00:39:30.203Z"
+              "WhenOpened": "2024-06-12T00:39:30.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ReadEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\ReadEmployee.cs",
-              "RelativeDocumentMoniker": "PaymentCalc\\Models\\ReadEmployee.cs",
-              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\ReadEmployee.cs",
-              "RelativeToolTip": "PaymentCalc\\Models\\ReadEmployee.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAABiAAAA",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Entyties\\ReadEmployee.cs",
+              "RelativeDocumentMoniker": "PaymentCalc\\Entyties\\ReadEmployee.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Entyties\\ReadEmployee.cs",
+              "RelativeToolTip": "PaymentCalc\\Entyties\\ReadEmployee.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T00:30:42.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WriteList.cs",
-              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\WriteList.cs",
-              "RelativeDocumentMoniker": "PaymentCalc\\Models\\WriteList.cs",
-              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\WriteList.cs",
-              "RelativeToolTip": "PaymentCalc\\Models\\WriteList.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAARAAAA",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Entyties\\WriteList.cs",
+              "RelativeDocumentMoniker": "PaymentCalc\\Entyties\\WriteList.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Entyties\\WriteList.cs",
+              "RelativeToolTip": "PaymentCalc\\Entyties\\WriteList.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwCMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T00:22:44.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FileManager.cs",
-              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\FileManager.cs",
-              "RelativeDocumentMoniker": "PaymentCalc\\Models\\FileManager.cs",
-              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\FileManager.cs",
-              "RelativeToolTip": "PaymentCalc\\Models\\FileManager.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA7AAAA",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Entyties\\FileManager.cs",
+              "RelativeDocumentMoniker": "PaymentCalc\\Entyties\\FileManager.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Entyties\\FileManager.cs",
+              "RelativeToolTip": "PaymentCalc\\Entyties\\FileManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T23:49:34.595Z",
               "EditorCaption": ""
@@ -115,31 +116,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "OutsourcedEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\OutsourcedEmployee.cs",
-              "RelativeDocumentMoniker": "PaymentCalc\\Models\\OutsourcedEmployee.cs",
-              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\OutsourcedEmployee.cs",
-              "RelativeToolTip": "PaymentCalc\\Models\\OutsourcedEmployee.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T00:23:03.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "RegisterEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\RegisterEmployee.cs",
-              "RelativeDocumentMoniker": "PaymentCalc\\Models\\RegisterEmployee.cs",
-              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\RegisterEmployee.cs",
-              "RelativeToolTip": "PaymentCalc\\Models\\RegisterEmployee.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwIYAAAAkAAAA",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Entyties\\RegisterEmployee.cs",
+              "RelativeDocumentMoniker": "PaymentCalc\\Entyties\\RegisterEmployee.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Entyties\\RegisterEmployee.cs",
+              "RelativeToolTip": "PaymentCalc\\Entyties\\RegisterEmployee.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwIcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T00:17:40.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "PaymentCalc\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\Employee.cs",
+              "RelativeToolTip": "PaymentCalc\\Models\\Employee.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:54:03.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OutsourcedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\OutsourcedEmployee.cs",
+              "RelativeDocumentMoniker": "PaymentCalc\\Models\\OutsourcedEmployee.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\OutsourcedEmployee.cs",
+              "RelativeToolTip": "PaymentCalc\\Models\\OutsourcedEmployee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:23:03.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Program.cs",
               "RelativeDocumentMoniker": "PaymentCalc\\Program.cs",
@@ -147,19 +162,8 @@
               "RelativeToolTip": "PaymentCalc\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T23:12:54.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "PaymentCalc\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\aronc\\source\\repos\\PaymentCalc\\PaymentCalc\\Models\\Employee.cs",
-              "RelativeToolTip": "PaymentCalc\\Models\\Employee.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T17:54:03.5Z"
+              "WhenOpened": "2024-06-11T23:12:54.26Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,4 +1,4 @@
-﻿using PaymentCalc.Models;
+﻿using PaymentCalc.Entyties;
 using System;
 
 public class Program

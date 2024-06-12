@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PaymentCalc.Models;
 
-namespace PaymentCalc.Models
+namespace PaymentCalc.Entyties
 {
     public class EmployeeList
     {

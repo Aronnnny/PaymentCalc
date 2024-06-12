@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PaymentCalc.Models;
 
-namespace PaymentCalc.Models
+namespace PaymentCalc.Entyties
 {
     public class ReadEmployee
     {
@@ -15,7 +16,7 @@ namespace PaymentCalc.Models
                 Console.Write("Insert the date of creation of the file [yyyyMMdd] or type Cancel to return: ");
                 string inputDate = Console.ReadLine().ToLower();
                 string fileName = $@"C:\EmployeeList\{inputDate}.txt";
-                if(inputDate == "cancel")
+                if (inputDate == "cancel")
                 {
                     Console.Clear();
                     FileManager.LoadOrCreate();
@@ -42,7 +43,7 @@ namespace PaymentCalc.Models
                 string[] lines = File.ReadAllLines(filePath);
                 foreach (string line in lines)
                 {
-                    string[] fields =  line.Split(',');
+                    string[] fields = line.Split(',');
 
                     Guid id = Guid.Parse(fields[0].Trim());
                     string name = fields[1].Trim();
@@ -50,7 +51,7 @@ namespace PaymentCalc.Models
                     double valuePerHour = double.Parse(fields[3].Trim());
                     bool isOutsourced = bool.Parse(fields[4].Trim());
 
-                    if(isOutsourced)
+                    if (isOutsourced)
                     {
                         double additionalCharge = double.Parse(fields[5].Trim());
                         Employee.Employees.Add(new OutsourcedEmployee(id, name, hours, valuePerHour, isOutsourced, additionalCharge));
