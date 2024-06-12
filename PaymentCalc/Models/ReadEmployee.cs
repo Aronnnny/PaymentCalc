@@ -12,17 +12,25 @@ namespace PaymentCalc.Models
         {
             while (true)
             {
-                Console.Write("Insert the date of the file [yyyyMMdd]: ");
-                string inputDate = Console.ReadLine();
+                Console.Write("Insert the date of creation of the file [yyyyMMdd] or type Cancel to return: ");
+                string inputDate = Console.ReadLine().ToLower();
                 string fileName = $@"C:\EmployeeList\{inputDate}.txt";
-                if (File.Exists(fileName))
+                if(inputDate == "cancel")
                 {
-                    return fileName;
+                    Console.Clear();
+                    FileManager.LoadOrCreate();
                 }
                 else
                 {
-                    Console.Clear();
-                    Console.WriteLine($"File {fileName}.txt not found.");
+                    if (File.Exists(fileName))
+                    {
+                        return fileName;
+                    }
+                    else
+                    {
+                        Console.Clear();
+                        Console.WriteLine($"File {fileName}.txt not found.");
+                    }
                 }
             }
         }
