@@ -15,7 +15,7 @@ namespace PaymentCalc.Models
 
             if (Directory.Exists(path))
             {
-                Console.WriteLine($"Saving EmployeeList into {path}.");
+                Console.WriteLine($"Saving Employee List into {path}.");
             }
             else
             {

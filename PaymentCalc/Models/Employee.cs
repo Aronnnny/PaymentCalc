@@ -15,7 +15,7 @@ namespace PaymentCalc.Models
         public bool IsOutsourced { get; set; }
         public static List<Employee> Employees { get; set; } = new List<Employee>();
 
-        public Employee(string name, int hours, double valuePerHour, bool isOutsourced)
+        public Employee(Guid id, string name, int hours, double valuePerHour, bool isOutsourced)
         {
             Name = name;
             Hours = hours;

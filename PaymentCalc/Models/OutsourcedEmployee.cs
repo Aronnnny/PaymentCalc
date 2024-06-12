@@ -10,7 +10,7 @@ namespace PaymentCalc.Models
     {
         public double AdditionalCharge { get; set; }
 
-        public OutsourcedEmployee(string name, int hours, double valuePerHour, bool isOutsourced, double additionalCharge) : base(name, hours, valuePerHour, isOutsourced)
+        public OutsourcedEmployee(Guid id,string name, int hours, double valuePerHour, bool isOutsourced, double additionalCharge) : base(id, name, hours, valuePerHour, isOutsourced)
         {
             AdditionalCharge = additionalCharge;
         }

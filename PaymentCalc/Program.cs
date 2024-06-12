@@ -5,8 +5,6 @@ public class Program
 {
     private static void Main(string[] args)
     {
-        List<Employee> employees = new List<Employee>();
-
-        RegisterEmployee.AddEmployee();
+        FileManager.LoadOrCreate();
     }
 }

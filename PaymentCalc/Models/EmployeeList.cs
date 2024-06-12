@@ -14,9 +14,9 @@ namespace PaymentCalc.Models
             {
                 Console.WriteLine($"===================\nEmployee Name: {employee.Name} \nPayment: ${employee.Payment():F2}\n===================");
             }
-            Console.Write("Add more Employees? [Y/N]: ");
-            string input = Console.ReadLine().ToLower();
-            if (input == "y")
+
+            bool addMoreEmployees = RegisterEmployee.GetRegisterEmployees();
+            if (addMoreEmployees)
             {
                 Console.Clear();
                 RegisterEmployee.AddEmployee();
@@ -28,6 +28,9 @@ namespace PaymentCalc.Models
                 {
                     Console.WriteLine($"===================\nEmployee Name: {employee.Name} \nPayment: ${employee.Payment():F2}\n===================");
                 }
+                WriteList writeList = new WriteList();
+                writeList.CreateList(Employee.Employees);
+                Environment.Exit(0);
             }
         }
     }
